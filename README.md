@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a budding economist interested in migration, labour, and various other things!
+I'm a budding economist interested in migration, labour, politics, and various other things!
 Moving, working, and studying between Paris FRA and Helsinki FIN.
 <!--
 **MikoLpe/MikoLpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
